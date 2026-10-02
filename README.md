@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
-[![Status](https://img.shields.io/badge/Status-Experimental-orange)](https://github.com/codev-aryan/AuroraDash)
+[![Status](https://img.shields.io/badge/Status-Experimental-orange)](https://github.com/mehta-aryan/AuroraDash)
 
 An atmospheric, high-fidelity endless runner inspired by the calm, meditative feel of Alto's Adventure. AuroraDash is a creative escape for developers—combining smooth canvas-based gameplay, procedural visuals, and a modern frontend stack to encourage a "flow state."
 
@@ -87,7 +87,7 @@ AuroraDash/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/codev-aryan/AuroraDash.git
+   git clone https://github.com/mehta-aryan/AuroraDash.git
    cd AuroraDash
    ```
 
@@ -141,7 +141,7 @@ Contributions are welcome! Whether you're fixing bugs, adding features, or impro
 
 ### Reporting Issues
 
-Found a bug or have a feature request? [Open an issue](https://github.com/codev-aryan/AuroraDash/issues) and let's discuss it.
+Found a bug or have a feature request? [Open an issue](https://github.com/mehta-aryan/AuroraDash/issues) and let's discuss it.
 
 ---
 
@@ -153,4 +153,4 @@ This project is licensed under the **MIT License**.
 
 ## Author
 
-Built by [@codev-aryan](https://github.com/codev-aryan)
+Built by [@mehta-aryan](https://github.com/mehta-aryan)
